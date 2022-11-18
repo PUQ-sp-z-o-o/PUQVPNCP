@@ -1,5 +1,10 @@
 # PUQVPNCP
 Provision and management of WireGuard VPN servers/accounts via WEB.
+Managing WireGuard VPN server using web interface
+Easy to setup, all-in-one WireGuard and Management Web UI
+
+[**Documentation**](https://panel.puqcloud.com/link.php?id=42")
+
 # Description
 [![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/link.php?id=42 "https://panel.puqcloud.com/link.php?id=42")
 
