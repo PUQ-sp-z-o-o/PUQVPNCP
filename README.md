@@ -7,8 +7,6 @@ Provision and management of WireGuard VPN servers/accounts via WEB.
 
 ****PUQVPNCP**-** It is a software product written in the GO language. Distributed as a deb package. And it is designed for LINUX Debian and Ubuntu operating systems.
 
-(https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/link.php?id=42 "https://panel.puqcloud.com/link.php?id=42")
-
 ##### The main goal of the product is to manage WireGuard servers and clients in an easy and intuitive way.
 
 ##### **The main features of the control panel:**
