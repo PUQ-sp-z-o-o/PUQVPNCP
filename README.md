@@ -51,3 +51,29 @@ dpkg -i puqvpncp_1.0-1_amd64.deb
 ```
 
 [![image-1668690609770.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668690609770.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668690609770.png)
+
+# WireGuard
+
+##### WireGuard configuration is available in the menu item **VPN servers-&gt;WireGuard**
+
+[![image-1668757030784.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668757030784.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668757030784.png)
+
+##### To create a new WireGuard server, click the Create button.
+
+[![image-1668757138560.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668757138560.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668757138560.png)
+
+The system will automatically fill in the form for creating a new server with unique data.
+
+You can change the data if necessary.
+
+In the **Peers configuration** section, you can set a conditional value for the throughput of each peer connected to this WireGuard interface. This data will be automatically applied when creating a VPN client for this WireGuard interface.
+
+##### Edit WireGuard
+
+[![image-1668757576157.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668757576157.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668757576157.png)
+
+- On the WireGuard interface/server page, it is possible to change everything except Name and Interface name.
+- Sections for diagnostics and work checks are updated in real time and it is possible to observe the change of counters on the rules. This section is very helpful in diagnosing problems if they occur.
+- Also on this page is a list of all WireGuard clients that use this WireGuard interface.
+
+"**Set Bandwidth**" button, which automatically sets the bandwidth of all clients of the external interface/server Set Bandwidth for the parameters that are entered in the section Peer configuration
