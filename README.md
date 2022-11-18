@@ -1,7 +1,7 @@
 # PUQVPNCP
 Provision and management of WireGuard VPN servers/accounts via WEB.
 # Description
-[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://doc.puq.info/books/puqvpncp/page/description "https://doc.puq.info/books/puqvpncp/page/description")
+[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/link.php?id=42 "https://panel.puqcloud.com/link.php?id=42")
 
 [![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")
 
