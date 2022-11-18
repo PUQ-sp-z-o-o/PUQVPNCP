@@ -77,3 +77,42 @@ In the **Peers configuration** section, you can set a conditional value for the 
 - Also on this page is a list of all WireGuard clients that use this WireGuard interface.
 
 "**Set Bandwidth**" button, which automatically sets the bandwidth of all clients of the external interface/server Set Bandwidth for the parameters that are entered in the section Peer configuration
+
+# VPN accounts
+
+##### VPN accounts configuration is available in the menu item **VPN accounts**
+
+[![image-1668759207616.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668759207616.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668759207616.png)
+
+##### To create a new VPN Account, click the Create button
+
+[![image-1668759310840.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668759310840.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668759310840.png)
+
+The system will automatically fill in the unique data in the form.   
+You need to select the WireGuard server/interface and the IP address that will be used by this client.
+
+##### Editing a VPN **WireGuard** account
+
+[![image-1668759619720.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668759619720.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668759619720.png)
+
+You have the ability to change the following settings for the **WireGuard** client
+
+- Password
+- Status
+- IP
+- Bandwidth download (in M)
+- Bandwidth upload (in M)
+
+On the page for changing the parameters of the WireGuard VPN account, there is also a diagnostic section that is updated in real time.
+
+On the WireGuard VPN account settings page, there is also a section with the client configuration in text form with the ability to download, also in the form of a QR code for mobile devices.
+
+##### Create one-time link 
+
+To create a one-time link with the configuration of the WireGuard VPN client, click on the **"Create one-time link"** button
+
+[![image-1668761511711.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668761511711.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668761511711.png)
+
+<p class="callout info">By clicking on a one-time link, opened a page with connection parameters for the VPN client sample. Thus, you can safely transfer data over the VPN.</p>
+
+[![image-1668762063292.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668762063292.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668762063292.png)
