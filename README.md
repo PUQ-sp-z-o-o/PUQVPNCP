@@ -1,8 +1,9 @@
 # PUQVPNCP
 Provision and management of WireGuard VPN servers/accounts via WEB.
 # Description
+[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/index.php?rp=/store/puqvpn "https://panel.puqcloud.com/index.php?rp=/store/puqvpn")
 
-<table id="bkmrk-" style="height: 107px; width: 100%; border-style: hidden;"><tbody><tr style="height: 107px;"><td style="width: 50%; height: 107px;">[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/index.php?rp=/store/puqvpn "https://panel.puqcloud.com/index.php?rp=/store/puqvpn")</td><td style="width: 50%; height: 107px;">[![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")</td></tr></tbody></table>
+[![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")
 
 ****PUQVPNCP**-** It is a software product written in the GO language. Distributed as a deb package. And it is designed for LINUX Debian and Ubuntu operating systems.
 
