@@ -46,8 +46,8 @@ Easy to setup, all-in-one WireGuard and Management Web UI
 **Quick installation**
 
 ```shell
-wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.0-1_amd64.deb
-dpkg -i puqvpncp_1.0-1_amd64.deb
+wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.1-2_amd64.deb
+dpkg -i puqvpncp_1.1-2_amd64.deb
 ```
 
 [![image-1668690609770.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668690609770.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668690609770.png)
