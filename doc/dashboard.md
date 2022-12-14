@@ -30,7 +30,7 @@ This section provides basic information about the status of the VPN server servi
 - **Version:** current version of the **PUQVPNCP** panel.
 - **WireGuards:** Number of WireGuard interfaces in the system.
 - **VPN Accounts:** The number of VPN accounts in the system.
-- **License:**License status and expiration date
+- **License:** License status and expiration date
 
 ##### WireGuard
 
