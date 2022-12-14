@@ -1,7 +1,9 @@
 # PUQVPNCP
 Provision and management of WireGuard VPN servers/accounts via WEB.
 
-Managing WireGuard VPN server using web interface
+Managing **WireGuard** VPN server using web interface
+Managing **IKEv2** VPN server using web interface
+
 
 Easy to setup, all-in-one WireGuard and Management Web UI
 
