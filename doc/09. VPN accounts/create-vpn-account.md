@@ -4,9 +4,9 @@
 
 In this panel tab you can create new VPN accounts.
 
-<p class="callout success">This activity can be simplified by using additional modules for WHMCS that automate the whole process. [More information here.](https://puqcloud.com/whmcs-modules-vpn/)</p>
+>This activity can be simplified by using additional modules for WHMCS that automate the whole process. [More information here.](https://puqcloud.com/whmcs-modules-vpn/)
 
-#### Create VPN account
+### Create VPN account
 
 To create a VPN account go to **VPN accounts -&gt; Add VPN account**
 
@@ -19,7 +19,7 @@ The system will automatically fill the form with unique data. It is necessary to
 - **Username/Password -** Authorization data for protocols that require login and password authorization (IKEv2)
 - **Wireguard -** The Wireguard interface to which the new account will be assigned
 - **IP -** The IP address that will be allocated to the account and will be assigned when connecting by any protocol.
-- **Private key/Public key -**Traffic encryption keys in the WireGuard protocol
+- **Private key/Public key -** Traffic encryption keys in the WireGuard protocol
 - **Bandwidth download /Bandwidth upload -** If necessary, reassign the bandwidth of the account. Otherwise, a similar parameter of the WireGuard interface will be taken into account
 
 After filling in all the fields, click the **Add** button
