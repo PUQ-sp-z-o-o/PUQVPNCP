@@ -1,0 +1,29 @@
+# Creating a WireGuard Configuration
+
+##### [Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
+
+<p class="callout info">In order for the WireGuard solution to work properly, it is necessary to create, among others: interface for Wireguard and configure other settings</p>
+
+##### **WireGuard's** configuration is available in the menu item **VPN servers-&gt;WireGuard**
+
+[![image-1671005452213.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1671005452213.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1671005452213.png)
+
+To create a new **WireGuard** server, click the Create button.
+
+[![image-1671005591390.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1671005591390.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1671005591390.png)
+
+The system will automatically fill in the form for creating a new server with unique data.
+
+You can change the data if necessary.
+
+- **Name** - This is a unique configuration name, this name appears in the system as the main configuration model of the **WireGuard** interface, this parameter cannot be changed later
+- **Private key/Public key -** Keys for encrypting the traffic of the WireGuard interface, the system generated new keys, but you can set them yourself when creating the **WireGuard** interface
+- **Interface name -** Name of the **WireGuard** network interface in the system, this parameter cannot be changed
+- **IP/MASK -**The parameters of the internal network of clients of this **WireGuard** interface, the address that is specified will be assigned to the interface and for all clients of this interface it will be the default gateway.
+- **Internal Traffic -** Allow or deny traffic exchange between the client of this interface
+- **Port -** Port on which the interface will listen for incoming connections
+- **External IP -** The public IP address that will be used in the interface configuration, NAT will be organized through this address for all clients of this interface. **The address must be public and configured on the server**.
+- **DNS 1/DNS 2 -** DNS servers that will be issued to the client of this interface
+- **Bandwidth download/Bandwidth upload -** conditional value for the throughput of each peer connected to this **WireGuard** interface. This data will be automatically applied when creating a VPN client for this WireGuard interface.
+- **Persistent Keepalive -** A sensible interval that works with a wide variety of firewalls is 25 seconds. Setting it to 0 turns the feature off, which is the default, since most users will not need this, and it makes **WireGuard** slightly more chatty
+- **IKEv2 Enabled -** Enables **IKEv2** protocol support for this interface. If set to **YES** then users of this interface will connect to the server using the **IKEv2** protocol
