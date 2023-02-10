@@ -2,9 +2,9 @@
 
 ##### [Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
 
-## Configuring Mikrotik as an WireGuard Client.
+# Configuring Mikrotik as an WireGuard Client.
 
-##### Make sure you have an up to date **routerOS** system.
+### Make sure you have an up to date **routerOS** system.
 
 Version must be at least: 7.6
 
@@ -15,7 +15,7 @@ Columns: NAME, VERSION
 0 routeros  7.6    
 ```
 
-##### Open a single-use shipment on the **WireGuard** section for the client's configuration request
+### Open a single-use shipment on the **WireGuard** section for the client's configuration request
 
 [![image-1671100595697.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1671100595697.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1671100595697.png)
 
@@ -52,7 +52,7 @@ Click **OK** to create a peer
 
 [![image-1671101662963.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1671101662963.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1671101662963.png)
 
-##### In order to have communication with the server, you need to set the address on the **WireGuard** interface
+### In order to have communication with the server, you need to set the address on the **WireGuard** interface
 
 Go to the menu item **IP-&gt;Addresses** In the window that opens, click the plus to assign an IP address to the WireGuard interface
 
@@ -66,4 +66,4 @@ Press the OK button to confirm
 
 [![image-1671102046038.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1671102046038.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1671102046038.png)
 
-<p class="callout info">You also need to configure the traffic routes you need at your discretion.</p>
+>You also need to configure the traffic routes you need at your discretion.
