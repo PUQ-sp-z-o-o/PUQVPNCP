@@ -20,7 +20,7 @@ But that<span class="hljs-comment">'s not all - our software is also universal a
 
 ##### [Order now](https://puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
 
-[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://puqcloud.com/index.php?rp=/store/puqvpn "https://puqcloud.com/index.php?rp=/store/puqvpn")[![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")
+[![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://puqcloud.com/index.php?rp=/store/puqvpn "https://puqcloud.com/index.php?rp=/store/puqvpn")|[![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")
 
 ****PUQVPNCP**-** It is a software product written in the GO language. Distributed as a deb package. And it is designed for LINUX Debian and Ubuntu operating systems.
 
