@@ -1,5 +1,7 @@
 # How to recover password
 
+##### [Order now](https://puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com/)
+
 **Problem:** Username or password were lost
 
 **Solution:**
