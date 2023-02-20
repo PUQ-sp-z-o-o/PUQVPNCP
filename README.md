@@ -18,7 +18,7 @@ Easy VPN WireGuard and IKEv2 server management from PUQ.
 
 But that<span class="hljs-comment">'s not all - our software is also universal and easy to use, making it perfect for users of all skill levels. You don't need to be a technical expert to set up and manage your VPN servers - our software makes it simple and straightforward.</span> <span class="hljs-keyword">Try</span> our software today <span class="hljs-built_in">and</span> see how it can help you secure your online connections <span class="hljs-built_in">and</span> protect your data!
 
-##### [Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
+##### [Order now](https://puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
 
 [![image-1668782960072.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668782960072.png)](https://panel.puqcloud.com/index.php?rp=/store/puqvpn "https://panel.puqcloud.com/index.php?rp=/store/puqvpn")[![image-1668783561800.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668783561800.png)](https://www.wireguard.com/ "https://www.wireguard.com/")
 
