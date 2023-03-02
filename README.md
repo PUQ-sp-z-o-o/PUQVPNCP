@@ -30,15 +30,18 @@ The main goal of the product is to manage **WireGuard** and **IKEv2** servers an
 
 - Simple and Intuitive Web Interface
 - Integrated SSL Let’s Encrypt
-- Creating and managment servers **WireGuard** and **IKEv2**
-- Creating and Managing **WireGuard** and **IKEv2** Clients
-- Possibility to limit the speed of clients **WireGuard** and **IKEv2**
-- Collection of traffic usage statistics for **WireGuard** and **IKEv2** clients
-- Generating QR Codes for Configuration of **WireGuard** Clients
-- One-time links for transferring **WireGuard** and **IKEv2** client configuration data
+- Creating and managment servers WireGuard and IKEv2
+- Creating and Managing WireGuard and IKEv2 Clients
+- Possibility to limit the speed of clients WireGuard and IKEv2
+- Collection of traffic usage statistics for WireGuard and IKEv2 clients
+- Generating QR Codes for Configuration of WireGuard Clients
+- One-time links for transferring WireGuard and IKEv2 client configuration data
 - Server firewall management
-- DNS caching server management for **WireGuard** clients
-- A full-fledged ability to remotely control the panel via API
+- DNS caching server management for WireGuard clients
+- Port forwarding from the real IP of the server to the internal ip of the VPN clients
+- Logging traffic passing through the server and sending logs to a remote syslog or InfluxDB server
+- Creating and Restoring Panel Configuration Backups
+- A full-fledged ability to remotely control the panel via API- 
 
 ### **Limitations in the free version:**
 
@@ -56,8 +59,8 @@ The main goal of the product is to manage **WireGuard** and **IKEv2** servers an
 ### **Quick installation**
 
 ```shell
-wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.5.1-6_amd64.deb
-dpkg -i puqvpncp_1.5.1-6_amd64.deb
+wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.6-8_amd64.deb
+dpkg -i puqvpncp_1.6-8_amd64.deb
 ```
 
 ### After installation, connect to your server via a web browser.
