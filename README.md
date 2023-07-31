@@ -59,8 +59,8 @@ The main goal of the product is to manage **WireGuard** and **IKEv2** servers an
 ### **Quick installation**
 
 ```shell
-wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.6-8_amd64.deb
-dpkg -i puqvpncp_1.6-8_amd64.deb
+wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.7_amd64.deb
+dpkg -i puqvpncp_1.7_amd64.deb
 ```
 
 ### After installation, connect to your server via a web browser.
