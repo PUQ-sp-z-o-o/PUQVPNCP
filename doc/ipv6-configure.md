@@ -1,14 +1,15 @@
 # IPv6 Configure
 
+##### [Order now](https://puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/) | [FAQ](https://faq.puqcloud.com)
+
 **I suggest you the following configuration**
 
-#####   
 On Router:
 
 IPv6 address: fd00:1111:2222:3333::1/120 (Interface to PUQVPNCP)  
 Add route: fd00:1111:2222:3333::101/120 via fd00:1111:2222:3333::2 (this route indicates that the VPN client subnet is on PUQVPNCP)
 
-##### On PUQVPNCP:
+### On PUQVPNCP:
 
 Interface eth0:  
 IPv6 address: fd00:1111:2222:3333::2/120  
