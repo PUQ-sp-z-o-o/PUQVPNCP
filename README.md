@@ -12,11 +12,11 @@ Easy VPN WireGuard and IKEv2 server management from PUQ.
 - Traffic management
 # Description
 
-### Introducing the ultimate solution <span class="hljs-keyword">for</span> managing VPN servers!
+### Introducing the ultimate solution for managing VPN servers!
 
-<span class="hljs-keyword">With</span> our software, you can easily create <span class="hljs-built_in">and</span> manage VPN servers <span class="hljs-keyword">using</span> the latest <span class="hljs-built_in">and</span> most secure protocols, such <span class="hljs-keyword">as</span> **WireGuard** <span class="hljs-built_in">and</span> **IKEv2**. Whether you need a VPN server <span class="hljs-keyword">for</span> personal use <span class="hljs-built_in">or</span> <span class="hljs-keyword">for</span> your business, our software has you covered.
+With our software, you can easily create and manage VPN servers using the latest and most secure protocols, such as **WireGuard** and **IKEv2**. Whether you need a VPN server for personal use or for your business, our software has you covered.
 
-But that<span class="hljs-comment">'s not all - our software is also universal and easy to use, making it perfect for users of all skill levels. You don't need to be a technical expert to set up and manage your VPN servers - our software makes it simple and straightforward.</span> <span class="hljs-keyword">Try</span> our software today <span class="hljs-built_in">and</span> see how it can help you secure your online connections <span class="hljs-built_in">and</span> protect your data!
+But that's not all - our software is also universal and easy to use, making it perfect for users of all skill levels. You don't need to be a technical expert to set up and manage your VPN servers - our software makes it simple and straightforward. Try our software today and see how it can help you secure your online connections and protect your data!
 
 ##### [Order now](https://puqcloud.com/index.php?rp=/store/puqvpn) | [Download](https://download.puqcloud.com/cp/puqvpncp/)| [FAQ](https://faq.puqcloud.com)
 
@@ -37,11 +37,12 @@ The main goal of the product is to manage **WireGuard** and **IKEv2** servers an
 - Generating QR Codes for Configuration of WireGuard Clients
 - One-time links for transferring WireGuard and IKEv2 client configuration data
 - Server firewall management
+- Supports IPv4 public IP for clients
 - DNS caching server management for WireGuard clients
 - Port forwarding from the real IP of the server to the internal ip of the VPN clients
 - Logging traffic passing through the server and sending logs to a remote syslog or InfluxDB server
 - Creating and Restoring Panel Configuration Backups
-- A full-fledged ability to remotely control the panel via API- 
+- A full-fledged ability to remotely control the panel via API
 
 ### **Limitations in the free version:**
 
@@ -59,8 +60,8 @@ The main goal of the product is to manage **WireGuard** and **IKEv2** servers an
 ### **Quick installation**
 
 ```shell
-wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.7_amd64.deb
-dpkg -i puqvpncp_1.7_amd64.deb
+wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.8_amd64.deb
+dpkg -i puqvpncp_1.8_amd64.deb
 ```
 
 ### After installation, connect to your server via a web browser.
